@@ -5,6 +5,7 @@ Created on Mon Feb 11 16:45:17 2019
 
 @author: shariba
 
+Most codes from: https://github.com/4uiiurz1/pytorch-deform-conv-v2/blob/master/deform_conv_v2.py
 Cite: Deformable Convolutional Networks by Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei
 """
 
