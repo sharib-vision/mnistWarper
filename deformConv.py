@@ -4,6 +4,8 @@
 Created on Mon Feb 11 16:45:17 2019
 
 @author: shariba
+
+Cite: Deformable Convolutional Networks by Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei
 """
 
 import torch
