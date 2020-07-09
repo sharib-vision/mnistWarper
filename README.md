@@ -1,10 +1,11 @@
 # mnistWarper
 
-### An unsupervised technique for deformable image warping
+### An unsupervised technique for deformable image warping 
 
-Author: sharib.ali@eng.ox.ac.uk
+####Author:
+Sharib Ali: sharib.ali@eng.ox.ac.uk
 
-
+#### Source --> Target --> Warped Image
 
 ![Alt text](/imgs/sample0.png?raw=true "Title")
 ![Alt text](/imgs/sample9.png?raw=true "Title")
