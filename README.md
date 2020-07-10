@@ -90,7 +90,7 @@ Sharib Ali: sharib.ali@eng.ox.ac.uk
 
 
 ### Disclaimer:
-Some parts of code may have been used from external sources. I have tried to reference it but in case not apologies for that. 
+Some parts of code may have been used from external sources. I have tried to reference it but in case not then please notify me and add it here. 
 
 ### Cite:
 If you use this code then please cite: Conv2Warp: An unsupervised deformable image registration with continuous convolution and warping by Ali, S and Rittscher, J.
